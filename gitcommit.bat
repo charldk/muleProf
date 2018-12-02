@@ -1,0 +1,1 @@
+git add . && git commit -am "fixed test" && git push origin master
